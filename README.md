@@ -1,0 +1,1 @@
+https://blog.logrocket.com/complex-vue-3-state-management-pinia/
